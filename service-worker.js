@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://pipozoft.github.io/csb-01h0r/precache-manifest.9fcad7f4903fd52ed1f082a99b968740.js"
+  "https://pipozoft.github.io/csb-01h0r/precache-manifest.53a38fdd5e19cc4f3eb7d0bf9ed9624b.js"
 );
 
 self.addEventListener('message', (event) => {
